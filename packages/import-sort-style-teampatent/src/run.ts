@@ -2,7 +2,6 @@
 
 import * as yargs from "yargs";
 
-import {IResolvedConfig, getConfig} from "import-sort-config";
 import {basename, dirname, extname, join} from "path";
 import {lstatSync, readFileSync, realpathSync, writeFileSync} from "fs";
 import sortImports, {ISortResult} from "import-sort";

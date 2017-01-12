@@ -19,7 +19,6 @@
     "@types/yargs": "0.0.31",
     "chai": "^3.5.0",
     "import-sort-style": "^2.3.0",
-    "import-sort-config": "^2.3.0",
     "import-sort": "^2.4.0",
     "file": "^0.2.2",
     "yargs": "^5.0.0",
