@@ -6,8 +6,8 @@
 ##### Buildining instructions
 
  - *npm install && npm link* the following modules *import-sort, import-sort-style, import-sort-parser, import-sort-parser-typescript* (*import-sort-parser-typescript* depends on *import-sort-parser* so you need to *npm link* it
-- *npm link* previously installed modules in *import-sort-style-teampatent* and install *import-sort-style-teampatent*
-- set executable bit on *import-sort-style-teampatent/lib/run.js*
+ - *npm link* previously installed modules in *import-sort-style-teampatent* and install *import-sort-style-teampatent*
+ - set executable bit on *import-sort-style-teampatent/lib/run.js*
 
 ##### Running the sorter
 
